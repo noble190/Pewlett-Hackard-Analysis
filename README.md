@@ -22,7 +22,7 @@ The purpose of this analysis is to examine Pewlett Hackard employee data to dete
 
 For further analysis, it may be useful to break down the mentor data into counts by role, similar to the analysis that was performed for upcoming retirees. This would allow us to quickly identify roles that will be most acutely impacted by lack of mentors.
 
-Additionally, it may be useful to run a querythat returns a count of employees per active manager. The retirement counts showing only 2 retirement-pending managers out of 90,398 employees look suspect, and may suggest a lack of managers. If the managers are overloaded, they may not be able to manage their departments effectively.
+Additionally, it may be useful to run a query that returns a count of employees per active manager. The retirement counts showing only 2 retirement-pending managers out of 90,398 employees look suspect, and may suggest a lack of managers. If the managers are overloaded, they may not be able to manage their departments effectively.
 
 
 
