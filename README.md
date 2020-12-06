@@ -7,7 +7,7 @@ The purpose of this analysis is to examine Pewlett Hackard employee data to dete
 ## Results
 <hr>
 ### Breakdown of upcoming retirees by position:
-![PH counts by position](https://github.com/noble190/Pewlett_Hackard_Analysis/blob/main/resources/CountRetireesByTitle.png)
+![PH counts by position](https://github.com/noble190/Pewlett-Hackard-Analysis/blob/main/resources/CountRetireesByTitle.png)
 
 * There are a total of 90,398 employees approaching retirement age at Pewlett Hackard
 * The majority of the employees approaching retirement age hold senior engineering or staff positions
