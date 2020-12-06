@@ -1,11 +1,9 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-<hr>
 The purpose of this analysis is to examine Pewlett Hackard employee data to determine the impact that an upcoming wave of retirees may have on the company, and to suggest a mitigation strategy.
 
 ## Results
-<hr>
 
 ### Breakdown of upcoming retirees by position:
 
@@ -18,7 +16,7 @@ The purpose of this analysis is to examine Pewlett Hackard employee data to dete
 
 
 ## Summary
-<hr>
+
 
 
 
