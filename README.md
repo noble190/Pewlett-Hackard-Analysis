@@ -2,11 +2,18 @@
 
 ## Overview
 <hr>
+The purpose of this analysis is to examine Pewlett Hackard employee data to determine the impact that an upcoming wave of retirees may have on the company, and to suggest a mitigation strategy.
 
 ## Results
 <hr>
-* Bullet
-  * Sub bullet
+### Breakdown of upcoming retirees by position:
+![PH counts by position](https://github.com/noble190/Pewlett_Hackard_Analysis/blob/main/Resources/CountRetireesByTitle.png)
+
+* There are a total of 90,398 employees approaching retirement age at Pewlett Hackard
+* The majority of the employees approaching retirement age hold senior engineering or staff positions
+* Conversely, only 2 managers are approaching retirement age
+* There are only 1,549 employees who can serve as mentors currently active at Pewlett Hackard
+
 
 ## Summary
 <hr>
@@ -16,4 +23,4 @@
 
 
 
-![Capture election district name from .csv header](https://github.com/noble190/dabc_election_analysis/blob/main/Resources/mod1.png)
+
